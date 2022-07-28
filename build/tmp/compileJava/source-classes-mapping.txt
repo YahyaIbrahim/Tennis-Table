@@ -1,0 +1,41 @@
+com/yehia/repositories/ScheduleRepository.java
+ com.yehia.repositories.ScheduleRepository
+com/yehia/dto/UserDTO.java
+ com.yehia.dto.UserDTO
+com/yehia/entities/AuditModel.java
+ com.yehia.entities.AuditModel
+com/yehia/dto/ScheduleDTO.java
+ com.yehia.dto.ScheduleDTO
+com/yehia/documentation/SwaggerConfig.java
+ com.yehia.documentation.SwaggerConfig
+ com.yehia.documentation.SwaggerConfig$1
+com/yehia/dto/ScoreDTO.java
+ com.yehia.dto.ScoreDTO
+com/yehia/App.java
+ com.yehia.App
+com/yehia/entities/User.java
+ com.yehia.entities.User
+com/yehia/implementations/UserService.java
+ com.yehia.implementations.UserService
+com/yehia/entities/League.java
+ com.yehia.entities.League
+com/yehia/controllers/LeagueController.java
+ com.yehia.controllers.LeagueController
+com/yehia/entities/Schedule.java
+ com.yehia.entities.Schedule
+com/yehia/repositories/LeagueRepository.java
+ com.yehia.repositories.LeagueRepository
+com/yehia/generator/Fixture.java
+ com.yehia.generator.Fixture
+com/yehia/generator/FixtureGenerator.java
+ com.yehia.generator.FixtureGenerator
+com/yehia/implementations/LeagueService.java
+ com.yehia.implementations.LeagueService
+com/yehia/repositories/UserRepository.java
+ com.yehia.repositories.UserRepository
+com/yehia/controllers/ScheduleController.java
+ com.yehia.controllers.ScheduleController
+com/yehia/implementations/ScheduleService.java
+ com.yehia.implementations.ScheduleService
+com/yehia/controllers/UserController.java
+ com.yehia.controllers.UserController
